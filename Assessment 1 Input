@@ -1,17 +1,93 @@
-My personal information
-Name: Kim Mackie Chapman
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kim Chapman Assignment 1</title>
+</head>
+<body>
+
+<h2>My personal information</h2>
+<p>Name: Kim Mackie Chapman
 DOB: 26/12/1990
 Age: 28
 Location: Sydney (originally from Melbourne)
 Height: 177cm (5'8)
-Hobbies and interests: Learning Japanese and Spanish, amateur astonomy, history, reading, gym and technology
-Favourite TV series: Star Trek (I love anything Trek)
-Favourite film genre: Historical Drama and Sci Fi
-Favourite book series: Lord of the Rings
-Interesting fact about myself: I did a year of high school exchange in Japan, and the friends I made from my exchange are still close friends today.
+Hobbies and interests: Learning Japanese and Spanish, amateur astonomy, history, reading, gym and technology.
+Favourite TV series: Star Trek.
+Favourite film genre: Historical Drama and Sci Fi.
+Favourite book series: Lord of the Rings.
+Interesting fact about myself: I did a year of high school exchange in the city of Nagoya, Japan. The friends I made from my exchange are still close friends today.</p>
+<br>
+<br>
+<h2>My interest in IT</h2>
+<p>My interest in information technology started when I was around 8 years old and revolves mostly around space exploration and space industries. Since the emergence of successfuly operating private space corporations, such as Space Ex, my attention focused towards the use of IT in that field and how we can use IT to further broaden and make possible our access to space. In addition to the new IT technologies that would be devloped from such endeavours.
+I also have an interest in the emergency of 'General AI', and the usage of machine learning to make better our automated systems, both in industry and personal everyday use.
+My background in IT so far has mostly been in working with and developing IP based devices and systems within the security industry.</p>
+<p>I chose to come to RMIT because the University has an outstanding reputation for technology degrees and I previously studied a certificate IV in Japanese language at RMIT back in 2009.</p>
+<p>Over the course of this degree I expect to learn a lot of programming skills/languages and industry relevant knowledge</p>
+<br>
+<br>
+<h2>My ideal job</h2>
+<p>My ideal job in IT would be working within the field in the space industry, for Space Ex, the following link is a job listing for my ideal postion as a senior software engineer for SpaceX, developing the software for their launch systems.</p><br>
 
-My interest in IT
-My interest in information technology revolves mostly around space exploration and space industries. Since the emergence of successfuly operating private space corporations, such as Space Ex, my attention focused towards the use of IT in that field and how we can use IT to further broaden and make possible our access to space. In addition to the new IT technologies that would be devloped from such endeavours.
-I also have an interest in the emergency of 'General AI', and the usage of machine learning to make better our automated systems, both in industry and personal everyday use. 
-My background in IT so far has mostly been in working with and developing IP based devices and systems within the security industry.
+<a href="https://boards.greenhouse.io/spacex/jobs/4258603002?gh_jid=4258603002">Senior Software Developer SpaceX</a><br>
 
+<p>The qualifications I would require would be at least a bachelors degree in Information Technology or Computer Science in addition to 4+ years in software development and 2+ years experience with C++.<br>
+My plan to secure a position within the industry working in such a role is as follows:<br>
+1. Complete my bachelors degree in Information Technology with RMIT.
+2. Continue on with my learning and development of software with C++ (which I am doing in my own time via a C++ course I purchased on Udemy), continue to develop programs with C++ which I can add to my portfolio.
+3. Continue on with my current role in the security industry, I am one year in now and as I am involved with system development, this will count towards that requirement.
+4. Undertake the necessary life and monetary decisions to relocate myself to the United States once my job application has been successful (e.g. visa application, paying off fincial obligations here, saving up for the move etc.)</p>
+<br>
+<br>
+<h2>My Profile</h2>
+<p>Here are three tests which I took.</p><br>
+<h3>16 Personalites.com Personality Test</h3><br>
+<img src="Personality Test.PNG" alt="INFJ-T"><br>
+<p>Here we can see that my personality outcome is the 'Advocate' or INFJ-T. What this means is that I am mostly introverted and direct most of my mental energy towards my intuitive understanding of a situation or problem more so than observing.<br>
+in addition to being less assertive in my interactions with other people. What this means for my behaviour when working in my team for the assignment is that I will most likely be the 'bond' of the group, I will want to ensure that each member is able to<br>
+work together and will most likely be comfortable with the other members making key decisions for the project.</p>
+<br>
+<h3>Political Compass Test</h3>
+<p>I understand that politics, especially in the current socio/political climate both in Australia and the world at large is a bit taboo and charged at the moment, however I thought it would be relevant to include it here in my profile as well.</p>
+<br>
+<img src="Political Compass.PNG" alt="Political Compass">
+<br>
+<p>As we can see from my results, I fit into the 'left/libertarian' section of the political compass. I think that what this means for my interaction with my group, is again myself acting as the common bond or the 'diplomat'
+As my personal and political views are overall accepting of others and I believe this is what will enable me to both co-ordinate work tasks with my team members and mediate as well.</p>
+
+<h3>Game of Thrones House Quiz</h3>
+<p>This one was just for a bit of fun, however it is still relevant to my profile</p>
+<br>
+<img src="Capture.PNG" alt="Result=HouseStark">
+<br>
+<p>As we can see from the result, I was placed in House Stark. I feel that this is apt as my parents are both from the UK, from Northern England and Scotland to be exact. I've always felt close to my northern English/Scottish heritage. The culture and history of the Starks<br>
+and the North in Games of Thrones was largely based on the northern parts of the UK in real life. How this relates to my co-operation with my group is that I do often times use a lot of parlance and colloquialisms from the region in my speech, I need to be wary that these
+aren't widely understand and should stick to a more 'standardised English' when communicating with members of my group and when creating input and text for the assignments.</p>
+<br>
+<br>
+<h2>Project Idea</h2>
+<h3>Vehicle mobile device moderator</h3>
+<br>
+<h3>Overview</h3>
+<p>This device would be installed in moter vehicles and would moderate the functions that can be accessed from a mobile device once paired to the vehicle</p>
+<br>
+<h3>Motivation</h3>
+<p>My motivation for this project is my ongoing frustration with driving and seeing the amount of other drivers on the road distracted by their mobile phones. Resulting in cars missing a turn at a green light due to a distracted driver, or worse, fatal accidents caused by<br>
+phone distraction. Infact every 96 seconds in Australia, a motorist is distracted by non-driving taks 'phone' (ABC News, 2019)</p>
+<br>
+<h3>Description</h3>
+<br>
+<p>This would be a device that hopefully would be a mandatory requirement to be installed in all passenger vehicles. It would operate whereby once a person turns on their car, the device would automatically pair their smartphone to the device and lock the phone screen from<br>
+being used while the vehicle is turned on. The only functions the phone would be permitted to perform, through this device, would be to make/answer calls from the vehicles info-tainment screen, text to speech text message narration and GPS pariing (e.g)Google Maps again<br>
+again through the vehicles info-tainment screen.</p>
+<br>
+<h3>Tools and Technologies</h3>
+<p>The device could be a purpose built PCB (printed circuit board) installed in the vehicles by the manufacturer or a 3rd party device installed by a specialist</p>
+<br>
+<h3>Skills Required</h3>
+<p>I would likely need to have a sufficient skills with a hardware based programming language such as C++ in addition to needing to co-ordinate with engineers to create the actual physical device</p>
+<br>
+<h3>Outcome</h3>
+<p>If the project were successful, it would hopefully contribute to both bringing down the ever-increasing fatality rate on our roads and help to alleviate driver frustration due to delays caused by driver distraction.</p>
+</body>
+</html>
